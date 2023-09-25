@@ -1,0 +1,19 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "Curriculum Short Specializations Average: 0.0% We're moving to Discord! In a few days, we will be leaving Slack in favor of Discord 🎉 Click here for more information 0x00. ES6 Basics JavaScript ES6  By: Johann Kerbrat, Engineering Manager at Uber Works  Weight: 1  Project will start Sep 24, 2023 8:00 PM, must end by Sep 25, 2023 8:00 PM  Checker was released at Sep 25, 2023 2:00 AM  An auto review will be launched at the deadline Concepts For this project, we expect you to look at these concepts:",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@babel/preset-env": "^7.22.20",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.50.0",
+    "jest": "^29.7.0"
+  }
+}
