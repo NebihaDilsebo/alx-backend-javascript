@@ -6,10 +6,7 @@ async function handleProfileSignup(firstName, lastName, fileName) {
   const photoPromise = uploadPhoto(fileName);
 
   try {
-    const [userResult, photoResult] = await Promise.allSettled([
-      userPromise,
-      photoPromise,
-    ]);
+    const [userResult, photoResult] = await Promise.allSettled([userPromise, photoPromise]);
 
     return [
       {
