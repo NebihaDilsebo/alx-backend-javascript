@@ -28,4 +28,3 @@ async function handleProfileSignup(firstName, lastName, fileName) {
 }
 
 export default handleProfileSignup;
-
